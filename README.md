@@ -5,3 +5,5 @@
 Ссылка на макет проекта в Figma: https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-%2B-mobile?node-id=28503%3A0
 
 Изображения, полученные из макета Figma, были сжаты благодаря сервису https://tinypng.com/
+
+Ссылка на GitHub Pages с этим проектом: https://nikfordia.github.io/russian-travel/
