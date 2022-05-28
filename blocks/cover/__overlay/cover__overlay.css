@@ -1,6 +1,7 @@
 .cover__overlay {
   color: #ffffff;
   text-decoration: none;
+  max-width: 100%;
 }
 
 .cover__overlay:after {
@@ -14,6 +15,7 @@
   transition: all 0.3s ease;
   content: "";
   z-index: -1;
+  max-width: 100%;
 }
 
 .cover__overlay:hover:after {
