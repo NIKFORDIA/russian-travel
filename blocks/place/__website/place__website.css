@@ -15,5 +15,6 @@
   .place__website {
     width: 288px;
     text-align: left;
+    margin-left: 16px;
   }
 }
